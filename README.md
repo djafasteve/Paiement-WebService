@@ -1,2 +1,2 @@
 # Paiement-WebService
-web-service, proposal, paiement, bank, rest, Java, ode, apache, eclipse, maven
+web-service, proposal, payment, bank, soap, Java, ode, apache, eclipse, maven
